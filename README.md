@@ -52,6 +52,10 @@ The visualization effectively demonstrates the distribution of student CGPAs, cl
 
 **What are the trends in the prevalence of mental illness among students across the four academic years?**
 
+
+![Academic_level](https://github.com/Lawahle/Mental-health-of-International-Islamic-University-Malaysia-Students/blob/main/Screenshot%202024-12-25%20175832.png?raw=true)
+
+
 This analysis examines the prevalence of mental illness across four academic levels. The visualisation presents the total number of students reporting mental health struggles at each level.
 
 Key observations reveal a notable trend:
@@ -62,6 +66,10 @@ Key observations reveal a notable trend:
 
 **Is there any significant correlation between marital status and the prevalence of mental illness?**
 
+
+![Marital_status](https://github.com/Lawahle/Mental-health-of-International-Islamic-University-Malaysia-Students/blob/main/Screenshot%202024-12-25%20175758.png?raw=true)
+
+
 This analysis examines the distribution of mental illness among students based on their marital status. The data reveals a significant difference in the prevalence of mental illness between unmarried and married students:
 
 •	Of the students reporting mental illness, 48 are unmarried.
@@ -69,6 +77,10 @@ This analysis examines the distribution of mental illness among students based o
 •	16 married students are also experiencing mental health challenges.
 
 **What is the distribution of mental illness across different gender groups?**
+
+
+![Students_gender](https://github.com/Lawahle/Mental-health-of-International-Islamic-University-Malaysia-Students/blob/main/Screenshot%202024-12-25%20175645.png?raw=true)
+
 
 This analysis examines the distribution of mental illness across two gender groups. The visualization clearly illustrates a significant disparity in the prevalence of mental illness between female and male students.
 
@@ -79,6 +91,10 @@ Key findings:
 •	Male students account for a smaller proportion, with 16 students (25% of the total). 
 
 **Is there a relationship between CGPA and the prevalence of mental illness?**
+
+
+![Students_CGPA](https://github.com/Lawahle/Mental-health-of-International-Islamic-University-Malaysia-Students/blob/main/Screenshot%202024-12-25%20175712.png?raw=true)
+
 
 This analysis examines the relationship between CGPA and the prevalence of mental illness among students. The visualization illustrates the distribution of students experiencing mental health challenges across five CGPA groupings: 3.50-4.00, 3.00-3.49, 2.50-2.99, 2.00-2.49, and 0.00-1.99.
 
@@ -93,6 +109,10 @@ Key findings indicate a higher prevalence of mental illness among students with 
 •	The 2.00-2.49 and 0.00-1.99 CGPA groups have the lowest number of students reporting mental illness, with 1 student each.
 
 **What is the age distribution of the student population?**
+
+
+![Students_age](https://github.com/Lawahle/Mental-health-of-International-Islamic-University-Malaysia-Students/blob/main/Screenshot%202024-12-25%20175900.png?raw=true)
+
 
 This analysis examines the age distribution of the student population, providing insights into the demographic makeup of the student body. The data encompasses students aged 18 to 24.
 
@@ -111,7 +131,7 @@ Key observations regarding the age distribution include:
 •	The smallest groups are students aged 21 and 22, with 3 and 2 students, respectively.
 
  
- # Report Snapshot (Power BI DESKTOP)
+ # Dashboard Snapshot (Power BI DESKTOP)
  
 
 ## Insights
