@@ -31,6 +31,8 @@ The dataset was downloaded in Microsoft Excel CSV format and was imported, clean
 The data was cleaned in Microsoft power query by checking for duplicates, blank rows, wrong spellings, outliers. An extra column was added called "Mental illness" this is to check for any student who has 1 of the 3 already stated mental illness.
 
 **How is CGPA distributed across the student population?**
+![Students_CGPA](https://github.com/Lawahle/Mental-health-of-International-Islamic-University-Malaysia-Students/blob/main/studentbyCGPA.png?raw=true)
+
 
 This analysis examines the distribution of student CGPAs across five distinct groupings: 3.50-4.00, 3.00-3.49, 2.50-2.99, 2.00-2.49, and 0.00-1.99. The visualization (represented by purple bars) illustrates the number of students within each CGPA range.
 
