@@ -138,7 +138,7 @@ Key observations regarding the age distribution include:
 
 ## Insights
 
-A single page report was created on Power BI Desktop & it was then published to Power BI Service.
+A single page report was created on Power BI Desktop.
 
 Following inferences can be drawn from the dashboard;
 
