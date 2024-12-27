@@ -131,8 +131,10 @@ Key observations regarding the age distribution include:
 •	The smallest groups are students aged 21 and 22, with 3 and 2 students, respectively.
 
  
- # Dashboard Snapshot (Power BI DESKTOP)
- 
+ ## Dashboard Snapshot (Power BI DESKTOP)
+
+ ![Dashboard_snapshot](https://github.com/Lawahle/Mental-health-of-International-Islamic-University-Malaysia-Students/blob/main/dashboard.png?raw=true)
+
 
 ## Insights
 
